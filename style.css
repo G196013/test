@@ -1,0 +1,26 @@
+hr {
+    margin:0px 0px 0px 0px;
+    background: #7494c0;
+    max-width: 100%;
+    height: 2px;
+    border:none;
+  }
+
+a.bottomNav {
+  background: #ffffff;
+  color: #7494c0;
+}
+
+a.bottomNav:hover {
+  background: #7494c0;
+  color: #ffffff;
+}
+
+label {
+  display: block;
+  /* font: 1rem 'Fira Sans', sans-serif; */
+}
+
+input, label {
+  margin: .4rem 0;
+}
